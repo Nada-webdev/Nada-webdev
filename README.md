@@ -35,7 +35,7 @@
 
 <h2>Programming Languages:</h2> <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,eclipse" />
 </div>
 
 <h2>Frontend Development:</h2> <br/>
@@ -45,7 +45,7 @@
 
 <h2>Backend Development:</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=node js,express,mongodb,mysql,oracle" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
 </div>
 
 
