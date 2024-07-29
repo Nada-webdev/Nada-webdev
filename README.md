@@ -48,6 +48,11 @@
     <img src="https://skillicons.dev/icons?i=node js,express,mongodb,mysql,oracle" /><br>
 </div>
 
+
+<h2>other:</h2><br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,figma" /><br>
+</div>
 <br/>
 <hr/>
 
