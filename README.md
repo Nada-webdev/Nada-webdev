@@ -40,18 +40,18 @@
 
 <h2>Frontend Development:</h2> <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" /><br>
 </div>
 
 <h2>Backend Development:</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs,npm,postman" /><br>
 </div>
 
 
 <h2>other:</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=git,figma,php" /><br>
 </div>
 <br/>
 <hr/>
