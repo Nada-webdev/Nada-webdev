@@ -33,13 +33,19 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<h2>Programming Languages</h2> <br/>
+<h2>Programming Languages:</h2> <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,javascript" />
-<h2>Frontend Development</h2>
+</div>
+<h2>Frontend Development:</h2>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" /><br>
 </div>
 
+<h2>Backend Development:</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=node js,express,mongobd,oracle,mysql" /><br>
+</div>
 <br/>
 <hr/>
 
