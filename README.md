@@ -45,7 +45,7 @@
 
 <h2>Backend Development:</h2><br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=node js,express" /><br>
+    <img src="https://skillicons.dev/icons?i=node js,express,mongodb,mysql,oracle" /><br>
 </div>
 
 <br/>
