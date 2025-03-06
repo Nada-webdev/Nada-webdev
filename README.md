@@ -41,7 +41,7 @@
 
 <h2>Frontend Development:</h2> <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite "/><br>
 </div>
 
 <h2>Backend Development:</h2><br/>
