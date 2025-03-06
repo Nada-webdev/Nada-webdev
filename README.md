@@ -37,22 +37,24 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,java,javascript,eclipse,python" />
 </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,figma,php" /><br>
+</div>
 
 <h2>Frontend Development:</h2> <br/>
+
+
+<h2>Backend Development:</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,django" /><br>
 </div>
-
-<h2>Backend Development:</h2><br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs,npm,postman,spring" /><br>
 </div>
 
 
 <h2>other:</h2><br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma,php" /><br>
-</div>
+
 <br/>
 <hr/>
 
