@@ -35,11 +35,9 @@
 
 <h2>Programming Languages:</h2> <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,java,javascript,eclipse,python" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,eclipse,python,php" />
 </div>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,figma,php" /><br>
-</div>
+
 
 <h2>Frontend Development:</h2> <br/>
 <div align="center">
@@ -53,7 +51,9 @@
 
 
 <h2>other:</h2><br/>
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,figma" /><br>
+</div>
 <br/>
 <hr/>
 
