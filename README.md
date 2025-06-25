@@ -9,23 +9,26 @@
 ---
 
 <div align="center">
-  -🌱 Currently learning Backend & mobile dev 
-  -💬 Ask me about Node.js, React, Spring
-  -📫 [Email](:nadachaa34@gmail.com) •
-  -[LinkedIn](https://www.linkedin.com/in/nada-chaa-16753a27a/)
+
+🌱 Currently learning **Backend** & **Mobile Development**  
+💬 Ask me about **Node.js**, **React**, **Spring**  
+📫 Reach me at: [nadachaa34@gmail.com](mailto:nadachaa34@gmail.com)  
+🔗 Connect on [LinkedIn](https://www.linkedin.com/in/nada-chaa-16753a27a/)
+
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,javascript,python,c,php,html,css,tailwind,react,vite,nodejs,spring,django,mysql,mongodb,postgres,git,figma,postman" />
 </div>
 
-
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Nada-webdev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nada-webdev&layout=compact&theme=react&border_radius=10&hide=html&langs_count=8" />
