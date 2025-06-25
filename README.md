@@ -9,9 +9,10 @@
 ---
 
 <div align="center">
-🌱 Currently learning **Backend & mobile dev**  
-💬 Ask me about **Node.js, React, Spring**  
-📫 [Email](:nadachaa34@gmail.com) • [LinkedIn](https://www.linkedin.com/in/nada-chaa-16753a27a/)
+  -🌱 Currently learning Backend & mobile dev 
+  -💬 Ask me about Node.js, React, Spring
+  -📫 [Email](:nadachaa34@gmail.com) •
+  -[LinkedIn](https://www.linkedin.com/in/nada-chaa-16753a27a/)
 </div>
 
 ---
